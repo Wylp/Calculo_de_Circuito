@@ -1,0 +1,20 @@
+F:\Temp\PVG_C#\TP05_192149\bin\Debug\TP05_192149.exe.config
+F:\Temp\PVG_C#\TP05_192149\bin\Debug\TP05_192149.exe
+F:\Temp\PVG_C#\TP05_192149\bin\Debug\TP05_192149.pdb
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.csprojAssemblyReference.cache
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.Form1.resources
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.Properties.Resources.resources
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.csproj.GenerateResource.cache
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.csproj.CoreCompileInputs.cache
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.exe
+F:\Temp\PVG_C#\TP05_192149\obj\Debug\TP05_192149.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\bin\Debug\TP05_192149.exe.config
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\bin\Debug\TP05_192149.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\bin\Debug\TP05_192149.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.csprojAssemblyReference.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.Form1.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\TP05_192149\obj\Debug\TP05_192149.pdb
